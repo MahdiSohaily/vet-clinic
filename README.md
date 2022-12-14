@@ -14,7 +14,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
 - [👥 Authors](#authors)
@@ -29,20 +28,17 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Database
+> This is a simple database for an animal Clinic built with PostgreSQL DBMS.
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+### Key Features
 
-### Key Features <a name="key-features"></a>
-
-- **Create table and Insert Data**
-- **Update Table**
-- **Delete table**
+- Create Database.
+- Create tables.
+- Insert new data.
+- Update Table
+- Delete table
+- Update existence data.
+- Delete existence data.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
